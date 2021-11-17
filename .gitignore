@@ -1,0 +1,14 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+test_utils
+data/raw/*
+data/news*.json
+api.py
+__*.py
+*.csv
+dataset_reduce.py
+main.py
+*.ipynb
+*.pyc
+*.pyi
